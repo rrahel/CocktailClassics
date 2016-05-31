@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/orange_wallpaper"
+    android:orientation="vertical" >
+    
+
+    <!-- android:background="@color/bg_color" -->
+    
+    
+    <ImageButton 
+        android:id="@+id/impressum_fhlogo"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        android:background="@drawable/fhlogo"
+        android:layout_margin="5dp"
+		android:onClick="onClick"
+		android:layout_gravity="center"
+        android:contentDescription="@string/iv_detail_ingredient_image"/>
+
+   <TextView 
+       android:id="@+id/impressum_credits"
+       android:layout_height="wrap_content"
+       android:layout_width="match_parent"
+       android:text="@string/impressum_credits"
+       android:gravity="center_horizontal"
+       android:layout_marginTop="10dp"
+       android:textSize="35sp"
+       android:layout_margin="5dp"
+       android:textAppearance="?android:attr/textAppearanceLarge"
+       android:background="@color/bg_color_title"/>
+   
+   <TextView 
+       android:id="@+id/impressum_credits_text"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:gravity="center_horizontal"
+       android:textColor="#000000"
+       android:textSize="20sp"
+       android:layout_marginTop="5dp"
+       android:text="@string/impressum_credits_text"/>
+   
+    <TextView 
+       android:id="@+id/impressum_quellen"
+       android:layout_height="wrap_content"
+       android:layout_width="match_parent"
+       android:text="@string/impressum_quellen"
+       android:gravity="center_horizontal"
+       android:layout_marginTop="10dp"
+       android:textSize="35sp"
+       android:textAppearance="?android:attr/textAppearanceLarge"
+       android:background="@color/bg_color_title"/>
+    
+    <TextView 
+       android:id="@+id/impressum_quellen_text"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:textColor="#000000"
+       android:gravity="center_horizontal"
+       android:textSize="20sp"
+       android:layout_marginTop="5dp"
+       android:text="@string/impressum_quellen_text"/>
+    
+    <TextView 
+       android:id="@+id/impressum_danksagung"
+       android:layout_height="wrap_content"
+       android:layout_width="match_parent"
+       android:text="@string/impressum_danksagung"
+       android:gravity="center_horizontal"
+       android:layout_marginTop="10dp"
+       android:textSize="35sp"
+       android:textAppearance="?android:attr/textAppearanceLarge"
+       android:background="@color/bg_color_title"/>
+    
+    <TextView 
+       android:id="@+id/impressum_danksagung_text"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:textColor="#000000"
+       android:gravity="center_horizontal"
+       android:textSize="20sp"
+       android:layout_marginTop="5dp"
+       android:text="@string/impressum_danksagung_text"/>
+    
+    
+    
+
+</LinearLayout>

@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/IMA13/!svn/ver/4334/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout
+END
+dialog_add_cocktail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/IMA13/!svn/ver/3692/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout/dialog_add_cocktail.xml
+END
+dialog_change_bar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/IMA13/!svn/ver/3903/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout/dialog_change_bar.xml
+END
+fragment_impressum_tablet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/IMA13/!svn/ver/4193/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout/fragment_impressum_tablet.xml
+END
+detail_ingredient_item_handy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/IMA13/!svn/ver/4028/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout/detail_ingredient_item_handy.xml
+END
+dialog_shopping_options.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/IMA13/!svn/ver/3903/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout/dialog_shopping_options.xml
+END
+list_item_handy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/IMA13/!svn/ver/4010/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout/list_item_handy.xml
+END
+bar_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/IMA13/!svn/ver/4290/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout/bar_item.xml
+END
+dialog_add_inshoppinglist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/IMA13/!svn/ver/3903/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout/dialog_add_inshoppinglist.xml
+END
+drawer_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/IMA13/!svn/ver/3376/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout/drawer_item.xml
+END
+fragment_alcohol_calculator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/IMA13/!svn/ver/4329/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout/fragment_alcohol_calculator.xml
+END
+fragment_detail_cocktail.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/IMA13/!svn/ver/4454/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout/fragment_detail_cocktail.xml
+END
+fragment_bar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/IMA13/!svn/ver/3901/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout/fragment_bar.xml
+END
+fragment_shopping_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/IMA13/!svn/ver/4103/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout/fragment_shopping_list.xml
+END
+fragment_impressum.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/IMA13/!svn/ver/4193/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout/fragment_impressum.xml
+END
+activity_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/IMA13/!svn/ver/3903/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout/activity_main.xml
+END
+shopping_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/IMA13/!svn/ver/4290/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout/shopping_item.xml
+END
+fragment_cocktail_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/IMA13/!svn/ver/4334/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout/fragment_cocktail_list.xml
+END
+dialog_change_note.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/IMA13/!svn/ver/4109/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout/dialog_change_note.xml
+END
+shopping_change_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/IMA13/!svn/ver/4290/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout/shopping_change_item.xml
+END
+fragment_detail_cocktail_handy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/IMA13/!svn/ver/4293/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout/fragment_detail_cocktail_handy.xml
+END
+dialog_alcohol_calculator_disclaimer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/IMA13/!svn/ver/4331/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout/dialog_alcohol_calculator_disclaimer.xml
+END
+quit_dialog_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/IMA13/!svn/ver/4292/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout/quit_dialog_layout.xml
+END
+dialog_change_pic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/IMA13/!svn/ver/4293/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout/dialog_change_pic.xml
+END
+detail_ingredient_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/IMA13/!svn/ver/3818/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout/detail_ingredient_item.xml
+END
+list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/IMA13/!svn/ver/4204/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout/list_item.xml
+END
+bar_change_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/IMA13/!svn/ver/4290/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/res/layout/bar_change_item.xml
+END

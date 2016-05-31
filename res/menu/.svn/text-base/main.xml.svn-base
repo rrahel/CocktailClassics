@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="at.fhjoanneum.android.MainActivity" >
+
+<!--     <item -->
+<!--         android:id="@+id/action_filter" -->
+<!--         android:orderInCategory="100" -->
+<!--         android:showAsAction="ifRoom|withText" -->
+<!--         android:title="@string/filter_cocktail"/> -->
+<!--     <item -->
+<!--         android:id="@+id/action_add" -->
+<!--         android:orderInCategory="100" -->
+<!--         android:showAsAction="ifRoom|withText" -->
+<!--         android:title="@string/add_cocktail"/> -->
+   
+
+</menu>

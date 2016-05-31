@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+ <LinearLayout>
+     
+     	<ImageView 
+     	    android:id="@+id/resource_picture_dialog"
+     	    android:layout_width="50dp"
+     	    android:layout_height="50dp"
+     	    android:layout_marginTop="5dp"
+     	    android:layout_marginLeft="10dp"
+     	    android:src="@drawable/pxwhiskysour"
+     	    />
+
+        <TextView
+            android:id="@+id/resource_name_change_bar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/dialog_title_text_color"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/padding_5dp"
+            android:layout_weight="3"
+            android:text="@string/resource_name"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    </LinearLayout>
+
+</TableLayout>

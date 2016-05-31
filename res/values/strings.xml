@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cocktail Classics</string>
+    <string name="update_cocktail">Update Cocktail</string>
+    <string name="update">Update</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="detail_cocktail">Detailansicht</string>
+
+    <!-- Menu buttons -->
+    <string name="add_cocktail">Cocktail hinzufügen</string>
+    <string name="filter_cocktail">Liste filtern</string>
+
+    <!-- Cocktail list -->
+    <string name="list_cocktail_name">Name</string>
+    <string name="list_cocktail_rating">Rating</string>
+    <string name="some_hint">Suche (Cocktail, Kategorie, Zutat)</string>
+
+    <!-- Add cocktail to db -->
+    <string name="add">Speichern</string>
+    <string name="reset">Reset</string>
+    <string name="txt_category">Kategorie</string>
+    <string name="raiting">Rating</string>
+    <string name="name">Cocktail Name</string>
+    <string name="recipie">Rezept</string>
+    <string name="note">Notiz</string>
+    <string name="alcohol">Alkoholisch?</string>
+    <string name="mixable">Mixable?</string>
+    <string name="inshoppinglist">InShoppingList?</string>
+
+    <!-- Cocktail detail view -->
+    <string name="detail_pic">Cocktail Image</string>
+    <string name="cb_detail_alcohol">Alkoholisch</string>
+    <string name="cb_detail_alcoholHandy">Alkohol</string>
+    <string name="cb_detail_mixable">Mixbar</string>
+    <string name="cb_detail_inshoppinglist">Gesamter Cocktail in Einkaufsliste</string>
+    <string name="bar_inBar">Vorhanden</string>
+    <string name="list_cocktail_category">Category</string>
+    <string name="resource_name">resource</string>
+    <string name="bt_changeNote">Notiz bearbeiten</string>
+    <string name="bt_changeNoteHandy">Notiz</string>    
+    <string name="bt_addToShoppingList">In Einkaufsliste</string>
+    <string name="bt_addToShoppingListHandy">Einkaufen</string>
+    <string name="detail_ingredient_name">Zutaten:</string>
+    <string name="detail_ingredient_amount">Menge:</string>
+    <string name="detail_ingredient_availability">Verfügbarkeit</string>
+    <string name="iv_detail_ingredient_image">Image</string>
+    <string name="txt_detail_recipie_title">Rezept:</string>
+    <string name="txt_detail_note_title">Notiz:</string>
+    <string name="bt_changePic">Bild ändern</string>
+    <string name="txt_scroll_detail">Notiz</string>
+    <string name="detail_view_header">Rezept</string>
+    
+
+    <!-- Shoppinglist -->
+    <string name="shopping_name_item">Zutaten</string>
+    <string name="bt_add_toBar">Eingekauft</string>
+    <string name="bt_delete_ressource_shop">Zutaten löschen</string>
+    <string name="tv_change_shoppinglist">Möchte ich doch nicht kaufen:</string>
+
+    <!-- String Array for the Navigation Drawer -->
+    <string-array name="menue">
+        <item>Cocktailliste</item>
+        <item>Bar</item>
+        <item>Einkaufsliste</item>
+        <item>Promillerechner</item>
+        <item>Impressum</item>
+    </string-array>
+
+    <string name="drawer_open">drawer open</string> <!-- sind nur für accessibility. (ansage für blinde) -->
+    <string name="drawer_close">drawer close</string>
+    <string name="shopping_frag_name">Einkaufliste</string>
+    <string name="bar_frag_name">Meine Bar</string>
+
+    <!-- In Shopping List dialog -->
+    <string name="everything">Alles in Einkaufsliste</string>
+    <string name="compare">Mit Bar abgleichen</string>
+    <string name="cocktail_inshoppinglist">Cocktail in Einkaufsliste</string>
+    <string name="inShoppingList_dialog">In Einkaufsliste einfügen</string>
+    
+    <!-- Change Pic dialog -->
+    <string name="make_pic">Neues Bild aufnehmen</string>
+    <string name="choose_pic">Bild aus Galerie wählen</string>
+    <string name="change_pic_dialog">Bild ändern</string>
+    <string name="save_pic">Bild verwenden</string>
+
+    <!-- Bar view -->
+    <string name="bt_delete_ressource">Ausgetrunken</string>
+    <string name="bt_insert_ressource">Ins Regal stellen</string>
+    <string name="bar_name">Aus meiner Bar soll:</string>
+    <string name="bar_name_overview">Meine Bar</string>
+    <string name="bt_finish">Fertig</string>
+    <string name="bt_calculate">Berechnen</string>
+    
+
+    <!-- Alcohol level calculator -->
+    <string name="alcohol_calc_name">Promillerechner</string>
+    <string name="label_height">Größe</string>
+    <string name="input_height_hint">Größe in cm</string>
+    <string name="input_age_hint">Alter in Jahren</string>
+    <string name="label_age">Alter</string>
+    <string name="label_weight">Gewicht</string>
+    <string name="input_weight_hint">Gewicht in kg</string>
+    <string name="input_amount_drinks">Anzahl</string>
+    <string name="label_acohol_level_desc">Geschätzter Promillewert</string>
+    <string name="label_acohol_level">0,00</string>
+    <string name="alc_calc_frag_name">Promillerechner</string>
+    <string name="disclaimer_text">Die errechneten Daten geben einen auf statistischen Daten basierenden Wert wieder, der aufgrund unterschiedlicher Konstitution, Alkoholgehalt der Getränke sowie Gesundheitszustand vom tatsächlichen Promillewert abweichen kann.
+Alle Angaben erfolgen ohne Gewähr. </string>
+    <string name="disclaimer_name">Haftungsausschluss</string>
+    <string name="bt_ok">Ok</string>
+    
+    
+
+    <!-- Impressum -->
+    <string name="impressum_credits">Created By:</string>
+    <string name="impressum_credits_text">CEMI Rrahel\nEGGER Andreas\nKAHMANN Sebastian\nMAYER Manuela</string>
+    <string name="impressum_frag_name">Impressum</string>
+    <string name="impressum_quellen">Quellen:</string>
+    <string name="impressum_quellen_text">Icons: http://www.flaticon.com\nBilder: Sebastian Kahmann\nRezepte: Die Rezepte stammen aus einer Sammlung von\nThomas Rauth und Sebastian Kahmann</string>
+	<string name="impressum_danksagung">Danksagung:</string>
+	<string name="impressum_danksagung_text">Diese App entstand im Studiengang Informationsmanagement\nim Rahmen der Lehrveranstaltung SWENGB\nmit Unterstützung von\nDI Augustin Durlacher\n und\nFH-Prof. Dipl.-Ing. Dr.techn. Peter Salhofer\n\n30.01.2015</string>
+    
+    <!-- Change note dialog -->
+    <string name="change_note">Notiz bearbeiten</string>
+    <string name="hint_note">Geben Sie bitte hier Ihre Notiz ein.</string>
+
+    <!-- PhotoFragment -->
+    <string name="album_name">CocktailClassics</string>
+    <string name="hello">Hello World, PhotoIntentActivity!</string>
+    <string name="btnIntend">Bild aufnehmen</string>
+    <string name="btnIntendS">Take (small) Picture</string>
+    <string name="btnIntendV">Take Video</string>
+    <string name="cannot">Cannot</string>
+    
+    <!-- QuitDialog -->
+    <string name="quit_dialog_text">App schließen?</string>
+    <string name="ja">Ja</string>
+    <string name="nein">Nein</string>
+    
+    
+
+</resources>

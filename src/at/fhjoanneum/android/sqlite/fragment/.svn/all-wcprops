@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/IMA13/!svn/ver/4326/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/fragment
+END
+CocktailAlcoholLevelCalculatorDisclaimerDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/IMA13/!svn/ver/4300/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/fragment/CocktailAlcoholLevelCalculatorDisclaimerDialog.java
+END
+CocktailBarFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/IMA13/!svn/ver/4300/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/fragment/CocktailBarFragment.java
+END
+CocktailInShoppingListFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/IMA13/!svn/ver/4306/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/fragment/CocktailInShoppingListFragment.java
+END
+CocktailShoppingDeleteZutaten.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/IMA13/!svn/ver/4245/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/fragment/CocktailShoppingDeleteZutaten.java
+END
+CocktailAlcoholLevelCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/IMA13/!svn/ver/4326/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/fragment/CocktailAlcoholLevelCalculator.java
+END
+CocktailShoppingFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/IMA13/!svn/ver/4245/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/fragment/CocktailShoppingFragment.java
+END
+CocktailBarDeleteFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/IMA13/!svn/ver/4300/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/fragment/CocktailBarDeleteFragment.java
+END
+CocktailShoppingAddInBarFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/IMA13/!svn/ver/4245/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/fragment/CocktailShoppingAddInBarFragment.java
+END
+QuitDialogFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/IMA13/!svn/ver/4208/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/fragment/QuitDialogFragment.java
+END
+ImpressumFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/IMA13/!svn/ver/4208/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/fragment/ImpressumFragment.java
+END
+CocktailChangeNoteFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/IMA13/!svn/ver/4319/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/fragment/CocktailChangeNoteFragment.java
+END
+CocktailDetailFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/IMA13/!svn/ver/4319/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/fragment/CocktailDetailFragment.java
+END
+CocktailBarAddFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/IMA13/!svn/ver/4300/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/fragment/CocktailBarAddFragment.java
+END
+CocktailListFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/IMA13/!svn/ver/4319/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/fragment/CocktailListFragment.java
+END

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/orange_wallpaper" >
+
+    <!-- android:background="@color/bg_color" -->
+
+    <TableRow
+        android:id="@+id/masterCocktailTableRow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/bg_color_title" >
+
+        <TextView
+            android:id="@+id/shopping_name_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/padding_5dp"
+            android:layout_marginStart="@dimen/padding_5dp"
+            android:layout_weight="3"
+            android:text="@string/shopping_name_item"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+    </TableRow>
+
+    <ListView
+        android:id="@+id/list_ressouces"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" >
+    </ListView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/bt_add_toBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/bt_add_toBar" />
+
+        <Button
+            android:id="@+id/bt_delete_ressource_shop"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/bt_delete_ressource_shop" />
+    </LinearLayout>
+
+</TableLayout>

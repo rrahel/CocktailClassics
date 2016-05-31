@@ -1,0 +1,49 @@
+Cocktail Classics
+=================
+
+Team Members:
+-------------
+ CEMI Rrahel
+ EGGER Andreas
+ KAHMANN Sebastian
+ MAYER Manuela
+ 
+ 
+Work load distribution:
+-----------------------
+ SQLite Database
+  Modeling 						- Cemi, Egger, Kahmann, Mayer
+  Implementing 					- Cemi, Kahmann, Mayer
+  Database content 				- Kahmann
+ Navigation Drawer 				- Kahmann
+ BackStack Management			- Kahmann
+ Icons 							- Cemi, Kahmann, Mayer
+ Pictures 					 	- Cemi, Kahmann
+ List view 					 	- Egger, Kahmann, Mayer
+  Modified Ratingbar			- Egger
+  Search						- Cemi
+  Sort by Name and Rating 	 	- Kahmann, Mayer
+ Detail view				 	
+  layout handy/tablet 			- Kahmann
+  Icons in ingredient list		- Mayer
+  In shopping list function 	- Mayer
+  Change note function 			- Mayer
+  Change picture function 		- Mayer
+  Note dialog 					- Kahmann
+ Bar
+  Resource List and pictures	 -Egger
+  Add function					- Egger
+  Remove function				- Egger
+ Shoppinglist
+  Resource List and pictures	- Cemi
+  Add function					- Cemi
+  Remove function				- Cemi
+ Alcohol level calculator		- Egger
+ Impressum 						- Kahmann
+  FH Logo connected to the web	- Kahmann
+ Documentation 					- Cemi, Egger, Kahmann, Mayer
+
+ Release:
+ --------
+ Date: 30.01.2015
+ Revision: 1.0

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sex_array">
+        <item>männlich</item>
+        <item>weiblich</item>
+    </string-array>
+    
+    <string-array name="drinks_array">
+        <item>0,2l Bier</item>
+        <item>0,33l Bier</item>
+        <item>0,5l Bier</item>
+        <item>0,125l Wein</item>
+        <item>0,25l Wein</item>
+        <item>0,02l Likör 20%</item>
+        <item>0,02l Schnaps 40%</item>
+    </string-array>
+</resources>

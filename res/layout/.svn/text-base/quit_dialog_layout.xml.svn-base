@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_dialog"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/bg_color_title"
+        android:layout_weight="1"
+        android:layout_margin="5dp"
+        android:orientation="horizontal" >
+        <ImageView
+            android:id="@+id/quit_dialog_pic"
+            android:layout_width="32dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:layout_marginStart="5dp"
+            android:contentDescription="@string/iv_detail_ingredient_image"
+            android:src="@drawable/ic_quit32" />
+
+        <TextView
+            android:id="@+id/quit_dialog_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"            
+            android:gravity="center"
+            android:text="@string/quit_dialog_text"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/dialog_title_text_color" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/quit_button_ja"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/ja"
+            android:textColor="@color/dialog_title_text_color" />
+
+        <Button
+            android:id="@+id/quit_button_nein"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/nein"
+            android:textColor="@color/dialog_title_text_color" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout>
+
+        <ImageView
+            android:id="@+id/resource_picture"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="19dp"
+            android:contentDescription="@string/iv_detail_ingredient_image"
+            android:src="@drawable/pxwhiskysour" />
+
+        <TextView
+            android:id="@+id/resource_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/padding_5dp"
+            android:layout_weight="3"
+            android:layout_gravity="center_vertical"
+            android:text="@string/resource_name"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+    </LinearLayout>
+
+</TableLayout>

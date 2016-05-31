@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="DefaultLocale">
+        <ignore path="src/at/fhjoanneum/android/sqlite/adapter/BarListAdapter.java" />
+        <ignore path="src/at/fhjoanneum/android/sqlite/adapter/CocktailListAdapter.java" />
+        <ignore path="src/at/fhjoanneum/android/sqlite/adapter/ShoppingListAdapter.java" />
+    </issue>
+    <issue id="InflateParams">
+        <ignore path="src/at/fhjoanneum/android/sqlite/adapter/BarListAdapter.java" />
+        <ignore path="src/at/fhjoanneum/android/sqlite/adapter/CocktailListAdapter.java" />
+        <ignore path="src/at/fhjoanneum/android/sqlite/adapter/IngredientListAdapter.java" />
+        <ignore path="src/at/fhjoanneum/android/sqlite/adapter/ShoppingListAdapter.java" />
+    </issue>
+</lint>

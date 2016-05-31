@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/IMA13/!svn/ver/4310/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/adapter
+END
+IngredientListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/IMA13/!svn/ver/4186/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/adapter/IngredientListAdapter.java
+END
+BarListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/IMA13/!svn/ver/4310/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/adapter/BarListAdapter.java
+END
+CocktailListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/IMA13/!svn/ver/4181/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/adapter/CocktailListAdapter.java
+END
+ShoppingListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/IMA13/!svn/ver/4310/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/adapter/ShoppingListAdapter.java
+END

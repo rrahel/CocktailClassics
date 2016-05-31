@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/IMA13/!svn/ver/4310/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/db
+END
+CocktailDBDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/IMA13/!svn/ver/4310/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/db/CocktailDBDAO.java
+END
+CocktailDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/IMA13/!svn/ver/4206/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/db/CocktailDAO.java
+END
+DataBaseHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/IMA13/!svn/ver/4188/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/db/DataBaseHelper.java
+END
+RessourceDBDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/IMA13/!svn/ver/4188/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/db/RessourceDBDAO.java
+END
+RessourceDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/IMA13/!svn/ver/4310/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/db/RessourceDAO.java
+END
+CategoryDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/IMA13/!svn/ver/4206/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/db/CategoryDAO.java
+END
+IngredientDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/IMA13/!svn/ver/4206/SWENGB_Projects/MyCocktailBar/trunk/CocktailClassics/src/at/fhjoanneum/android/sqlite/db/IngredientDAO.java
+END
